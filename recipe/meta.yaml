@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/metatrain-{{ version }}.tar.gz
-  sha256: 9db541119a7c8ccce68843fe1b650dab0c812485284e3f18a3e0c309bc2a1d5b
+  sha256: 2eec15c9ce1b7e5303759070111ea398f782429d5f3cb48ae8202fdb9173c55d
 
 build:
   entry_points:
