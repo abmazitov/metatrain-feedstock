@@ -1,5 +1,5 @@
 {% set name = "metatrain" %}
-{% set version = "2025.0" %}
+{% set version = "2025.2" %}
 
 package:
   name: {{ name|lower }}
