@@ -25,14 +25,14 @@ requirements:
     - pip
   run:
     - python >={{ python_min }}
-    - ase <3.23.0
+    - ase
     - python-metatensor-learn ==0.3.1
     - python-metatensor-operations ==0.3.2
     - python-metatensor-torch ==0.7.3
     - jsonschema
     - omegaconf
     - python-hostlist
-    - pytorch
+    - pytorch <2.6.0
     - python-vesin
     - numpy <2.0.0
 
