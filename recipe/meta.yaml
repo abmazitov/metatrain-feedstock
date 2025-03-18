@@ -32,7 +32,7 @@ requirements:
     - jsonschema
     - omegaconf
     - python-hostlist
-    - pytorch <2.6.0
+    - pytorch
     - python-vesin
     - numpy <2.0.0
 
